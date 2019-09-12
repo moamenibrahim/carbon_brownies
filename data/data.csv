@@ -1,0 +1,11 @@
+Invoice_id,Date,Amount,Country,CO2
+1,10.2018,100,China,11
+2,10.2018,554,China,15
+3,10.2018,2252,India,12
+4,10.2018,22,Germany,4
+5,10.2018,27,Sweden,3
+6,10.2018,69,Norway,2
+7,10.2018,7855,Russia,2
+8,10.2018,557,Germany,5
+9,10.2018,665,India,16
+10,10.2018,55,China,19

@@ -18,7 +18,7 @@ jdcal==1.4.1
 jmespath==0.9.4
 jsondiff==1.2.0
 more-itertools==7.2.0
-numpy==1.21.0
+numpy==1.22.0
 openpyxl==2.6.3
 packaging==19.1
 pandas==0.25.1

@@ -11,7 +11,7 @@ dataclasses==0.6
 dateparser==0.7.1
 elisctl==2.7.0
 et-xmlfile==1.0.1
-idna==2.8
+idna==3.7
 importlib-metadata==0.22
 invoice2data==0.3.5
 jdcal==1.4.1
